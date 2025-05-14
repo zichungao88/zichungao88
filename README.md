@@ -44,6 +44,9 @@
   <img src="./logos/nvidia.png" height="40">
 </p>
 
+### Personal Stats (Credit: https://github.com/anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichungao88&layout=compact&theme=github_dark)
+
 
 <!--
 **zichungao88/zichungao88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
