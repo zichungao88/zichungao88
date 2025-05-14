@@ -40,7 +40,7 @@
 <p>
   <img src="./logos/arduino.png" height="40">
   <img src="./logos/raspi.png" height="40">
-  <img src="./logos/jetson.png" height="40">
+  <img src="./logos/nvidia.png" height="40">
 </p>
 
 
