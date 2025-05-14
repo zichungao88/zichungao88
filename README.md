@@ -2,24 +2,45 @@
 
 ### General-Use Software
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/multisim.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/tinkercad.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/autodesk.svg" width="40" height="40">
+  <img src="./logos/multisim.png" height="40">
+  <img src="./logos/fusion.png" height="40">
+  <img src="./logos/inventor.png" height="40">
+  <img src="./logos/pspice.png" height="40">
 </p>
 
 ### Programming & Markup Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/cplusplus.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/latex.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/r.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" width="40" height="40">
+  <img src="./logos/python.webp" height="40">
+  <img src="./logos/java.png" height="40">
+  <img src="./logos/c.png" height="40">
+  <img src="./logos/cpp.png" height="40">
+  <img src="./logos/matlab.png" height="40">
+  <img src="./logos/r.png" height="40">
+  <img src="./logos/html.png" height="40">
+  <img src="./logos/latex.png" height="40">
 </p>
 
 ### Hardware Description & Low-Level Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/atandt.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/riscv.svg" width="40" height="40">
+  <img src="./logos/sv.png" height="40">
+  <img src="./logos/x86.png" height="40">
+  <img src="./logos/riscv.png" height="40">
+  <img src="./logos/avr.webp" height="40">
+</p>
+
+### Software Development
+<p>
+  <img src="./logos/linux.png" height="40">
+  <img src="./logos/bash.png" height="40">
+  <img src="./logos/ubuntu.png" height="40">
+  <img src="./logos/humble.png" height="40">
+</p>
+
+### Embedded Systems & Microcontrollers
+<p>
+  <img src="./logos/arduino.png" height="40">
+  <img src="./logos/raspi.png" height="40">
+  <img src="./logos/jetson.png" height="40">
 </p>
 
 
