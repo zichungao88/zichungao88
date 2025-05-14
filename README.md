@@ -32,7 +32,7 @@
 <p>
   <img src="./logos/linux.png" height="40">
   <img src="./logos/bash.png" height="40">
-  <img src="./logos/ubuntu.png" height="40">
+  <img src="./logos/ubuntu.svg" height="40">
   <img src="./logos/humble.png" height="40">
 </p>
 
