@@ -3,8 +3,10 @@
 ### General-Use Software
 <p>
   <img src="./logos/multisim.png" height="40">
+  <img src="./logos/altium.png" height="40">
   <img src="./logos/fusion.png" height="40">
   <img src="./logos/inventor.png" height="40">
+  <img src="./logos/ltspice.jpg" height="40">
   <img src="./logos/pspice.png" height="40">
 </p>
 
@@ -44,7 +46,7 @@
   <img src="./logos/nvidia.png" height="40">
 </p>
 
-### Personal Stats (Credit: https://github.com/anuraghazra)
+### Personal Stats (Credit: @anuraghazra)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichungao88&layout=compact&theme=github_dark)
 
 
