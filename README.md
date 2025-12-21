@@ -37,6 +37,7 @@
   <img src="./logos/ubuntu.svg" height="40">
   <img src="./logos/humble.png" height="40">
   <img src="./logos/git.jpg" height="40">
+  <img src="./logos/vivado.jpg" height="40">
 </p>
 
 ### Embedded Systems & Microcontrollers
