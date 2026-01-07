@@ -47,7 +47,7 @@
   <img src="./logos/nvidia.png" height="40">
 </p>
 
-### Personal Stats (Credit: @anuraghazra)
+### Personal Stats (Credit: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats))
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zichungao88&layout=compact&theme=github_dark) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api?username=zichungao88)](https://github.com/anuraghazra/github-readme-stats)
 
